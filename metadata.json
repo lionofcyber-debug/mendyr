@@ -1,0 +1,7 @@
+{
+  "name": "Lion AI - Your 24/7 Cyber Guardian",
+  "description": "The official AI Cybersecurity & IT Assistant of Lion of Cyber, providing enterprise-grade protection guidance and support.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
